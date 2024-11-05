@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "two_cities_verona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32632" } },
+"features": [
+{ "type": "Feature", "properties": { "COD_RIP": 2, "COD_REG": 5, "COD_PROV": 23, "COD_CM": 1, "COD_UTS": 23, "PRO_COM": 23091, "PRO_COM_T": "023091", "COMUNE": "Verona", "COMUNE_A": "0", "CC_UTS": 1, "Shape_Leng": 81590.503538999998, "Shape_Area": 198863691.36399999 }, "geometry": { "type": "Point", "coordinates": [ 656559.781076832325198, 5034710.811771543696523 ] } },
+{ "type": "Feature", "properties": { "COD_RIP": 2, "COD_REG": 5, "COD_PROV": 23, "COD_CM": 0, "COD_UTS": 23, "PRO_COM": 23029, "PRO_COM_T": "023029", "COMUNE": "Concamarise", "COMUNE_A": "0", "CC_UTS": 0, "Shape_Leng": 14284.325419000001, "Shape_Area": 7937906.1229699999 }, "geometry": { "type": "Point", "coordinates": [ 668218.347662815940566, 5007867.528122618794441 ] } }
+]
+}
